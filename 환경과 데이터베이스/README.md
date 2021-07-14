@@ -12,3 +12,9 @@ https://plausible-burst-e9a.notion.site/1e43abf535534d7f87685f4a6d52cf96
 - CLI
 - git_bash
 -------------------------------------------------------------------------
+
+# NOTE 2 (Docker)
+
+https://plausible-burst-e9a.notion.site/Doker-10df06d640dc4a07a1fa8d74c47e4a92
+- Docker
+-------------------------------------------------------------------------
