@@ -19,7 +19,7 @@ https://plausible-burst-e9a.notion.site/Doker-10df06d640dc4a07a1fa8d74c47e4a92
 - Docker
 -------------------------------------------------------------------------
 
-# NOTE 2 (SQLite)
+# NOTE 3 (SQLite)
 
 https://plausible-burst-e9a.notion.site/SQLite-6f39e3bf53544a84b37aa675ad481bee
 - SQLite
